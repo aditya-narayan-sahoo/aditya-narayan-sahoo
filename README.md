@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aditya-narayan-sahoo
+- 👋 Hi, I’m Aditya Narayan Sahoo
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Data Structures and Algorithms and Full Stack Development
 - 💞️ I’m looking to collaborate on Web Development Projects
