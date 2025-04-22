@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in Web Development<br>🌱 I’m currently learning Data Structures and Algorithms and Full Stack Development<br>💞️ I’m looking to collaborate on Web Development Projects<br>📫 You can reach me via adityasahoo246@gmail.com
+👀 I’m interested in Software Engineering, Cloud Computing & Open Source Software<br>🌱 I’m currently working as Associate System Engineer at IBM <br>💞️ I’m looking to collaborate on Cloud and Web Projects<br>📫 You can reach me via adityasahoo246@gmail.com
 
 
 ## 🌐 Socials:
